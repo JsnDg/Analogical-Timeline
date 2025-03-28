@@ -1,7 +1,5 @@
 # Analogical Timeline for Hype Cycle
 
-![Zijian Ding](https://jason-ding.com/), University of Maryland, College Park
-
 "History doesn't repeat itself, but it often rhymes."
 
 We attempt to provide a preliminary direction for addressing a question that everyone is interested in but finds difficult to answer: What will the future be like?
