@@ -6,7 +6,7 @@ We introduce the Analogical Timeline for the Hype Cycle as a preliminary approac
 
 Forecasting technological advancements has always been challenging. Yet, historical parallels can offer valuable insights into the patterns of innovation and adoption. We introduce the concept of an analogical timeline—a method of using LLM and milestones and growth trajectory of one technology (e.g., Generative AI from 2022 to 2025) to predict the future evolution of another (e.g., robotics from 2025 onward). By examining how previous technology underwent phases such as fundamental breakthroughs, mass adoption, and open-source strategy, we propose a structured framework for forecasting future technology advancement with GenAI.
 
-You might ask, why not use time series? Yes, time series is a common method for event prediction, but LLMs are not trained based on time series data. Instead, they are trained on vast amounts of human data such as historical events. Using time series alone cannot fully leverage the generative capabilities of LLMs. Therefore, we propose the analogical timeline as a promising solution. We will keep upading our method.
+You might ask, why not use time series? Yes, time series is a common method for event prediction, but LLMs are not trained based on time series data. Instead, they are trained on vast amounts of human data such as historical events. Using time series alone cannot fully leverage the generative capabilities of LLMs. Therefore, we propose the analogical timeline as a potential solution. We will keep updating our method.
 
 ## Interface
 
