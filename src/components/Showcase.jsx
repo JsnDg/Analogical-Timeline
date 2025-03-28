@@ -293,7 +293,7 @@ function Showcase() {
         textDecoration: "none",
         color: "#000"
       }}
-    >[Code]</a></div>
+    >[Code/Document]</a></div>
       </div>
 
       {/* Add Event Button (top-right corner) */}
