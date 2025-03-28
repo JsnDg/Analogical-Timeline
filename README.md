@@ -1,14 +1,34 @@
 # Analogical Timeline for Hype Cycle
 
-[Website](https://anatime.netlify.app/)
-
 "History doesn't repeat itself, but it often rhymes."
 
-Forecasting technological advancements has always been challenging. Yet, historical parallels can offer valuable insights into the patterns of innovation and adoption. We introduce the concept of an analogical timeline—a method of using the milestones and growth trajectory of one technology (e.g., Generative AI from 2022 to 2025) to predict the future evolution of another (e.g., robotics from 2025 onward). By examining how previous technology underwent phases of fundamental breakthroughs, mass adoption, and open-source strategy, we propose a structured framework for forecasting future technology advancement such as robotics. 
+We attempt to provide a preliminary direction for addressing a question that everyone is interested in but finds difficult to answer: What will the future be like?
+
+Forecasting technological advancements has always been challenging. Yet, historical parallels can offer valuable insights into the patterns of innovation and adoption. We introduce the concept of an analogical timeline—a method of using LLM and milestones and growth trajectory of one technology (e.g., Generative AI from 2022 to 2025) to predict the future evolution of another (e.g., robotics from 2025 onward). By examining how previous technology underwent phases such as fundamental breakthroughs, mass adoption, and open-source strategy, we propose a structured framework for forecasting future technology advancement with GenAI.
+
+You might ask, why not use time series? Yes, time series is a common method for event prediction, but LLMs are not trained based on time series data. Instead, they are trained on vast amounts of human data such as historical events. Using time series alone cannot fully leverage the generative capabilities of LLMs. Therefore, we propose the analogical timeline as a promising solution. We will keep upading our method.
 
 ## Interface
 
-![Analogical Timeline Example](public/images/AnaTime.jpg)
+Check the interactive interface [here](https://anatime.netlify.app/). On this interface, you can select which timeline(s) to display and choose whether to include LLM-predicted events. For example, GenAI-o1 (2025-03-23) indicates the GenAI timeline, with future events predicted using o1 as of March 23, 2025.
+
+![Analogical Timeline Example](public/images/AnaTime.png)
+
+### Interaction
+
+Hover over event cards to view detailed information.
+
+![Robot 2025](public/images/Event Details.png)
+
+Hover over links to explore the analogical connections between events.
+
+![Connection](public/images/connection.png)
+
+To create a new analogical connection between two cards, double-click on one card and then double-click on another.
+
+![Add Connection](public/images/AddConnection.png)
+
+Click the "+" button on the top right corner to add a new event card to one timeline.
 
 ## Getting Started
 
@@ -54,6 +74,12 @@ Contributions are welcome! Feel free to open an issue or submit a pull request i
 2. Make your changes.  
 3. Ensure lint checks and tests (if available) pass.  
 4. Submit a pull request explaining your changes.
+
+## Application
+
+[Robot in 2025 as GenAI in 2022](https://robot-genai.netlify.app/)
+
+![Robot 2025](public/images/Robot2025.png)
 
 ## Related Paper
 
