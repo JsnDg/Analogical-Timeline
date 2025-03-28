@@ -1,8 +1,10 @@
 # Analogical Timeline for Hype Cycle
 
-"History doesn't repeat itself, but it often rhymes." The best benchmark is time.
+"History doesn't repeat itself, but it often rhymes."
 
-Forecasting technological advancements has always been challenging. Yet, historical parallels can offer valuable insights into the patterns of innovation and adoption. We introduce the concept of an analogical timeline—a method of using the milestones and growth trajectory of one technology (e.g., Generative AI from 2022 to 2025) to predict the future evolution of another (e.g., robotics from 2025 onward). By examining how previous technology underwent phases of fundamental breakthroughs, mass adoption, and open-source strategy, we propose a structured framework for forecasting future technology advancement such as robotics. 
+Forecasting technological advancements has always been challenging. Yet, historical parallels can offer valuable insights into the patterns of innovation and adoption. We introduce the concept of an analogical timeline—a method of using the milestones and growth trajectory of one technology (e.g., Generative AI from 2022 to 2025) to predict the future evolution of another (e.g., robotics from 2025 onward). By examining how previous technology underwent phases of fundamental breakthroughs, mass adoption, and open-source strategy, we propose a structured framework for forecasting future technology advancement such as robotics.
+
+Check the interactive interface [here](https://anatime.netlify.app/)
 
 ## Interface
 
