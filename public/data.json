@@ -1,0 +1,755 @@
+{
+  "waves": [
+    {
+      "title": "PC",
+      "period": "(1980-1986)",
+      "events": [
+        {
+          "id": "pc-1",
+          "date": "1980-08-25",
+          "title": "IBM PC Project",
+          "detail": "IBM decided to form a personal computer division the Entry Level Systems and launched 'Project Chess' to develop what would become the IBM PC."
+        },
+        {
+          "id": "pc-2",
+          "date": "1980-11-06",
+          "title": "Microsoft Secures IBM Contract",
+          "detail": "Microsoft secured a contract with IBM to supply a CP/M operating system for IBM's upcoming personal computer."
+        },
+        {
+          "id": "pc-3",
+          "date": "1981-04-27",
+          "title": "Xerox Star Commercial Failure",
+          "detail": "Despite pioneering many GUI concepts, the Xerox Star was prohibitively expensive ($16,595, equivalent to $57,000 in 2024) and failed to achieve significant market adoption.",
+          "isFailure": true
+        },
+        {
+          "id": "pc-4",
+          "date": "1981-08-12",
+          "title": "IBM PC",
+          "detail": "The IBM 5150 model was released, featuring an Intel 8088 CPU and MS-DOS."
+        },
+        {
+          "id": "pc-5",
+          "date": "1982-02-16",
+          "title": "Compaq Founded",
+          "detail": "Compaq was founded, focusing on manufacturing IBM PC compatibles."
+        },
+        {
+          "id": "pc-6",
+          "date": "1983-01-19",
+          "title": "Apple Lisa / GUI",
+          "detail": "Apple released the Lisa, the first commercial personal computer with a graphical user interface, priced at $9,995 and targeting business users."
+        },
+        {
+          "id": "pc-7",
+          "date": "1983-02-01",
+          "title": "Compaq Portable PC",
+          "detail": "Compaq introduced the Compaq Portable, the first successful IBM PC-compatible portable computer, helping the company achieve record first-year sales."
+        },
+        {
+          "id": "pc-8",
+          "date": "1983-04-03",
+          "title": "Osborne Effect Causes Bankruptcy",
+          "detail": "Osborne Computer Corporation announced an upcoming model prematurely, causing a collapse in current sales and leading to bankruptcy within a year.",
+          "isFailure": true
+        },
+        {
+          "id": "pc-9",
+          "date": "1984-01-22",
+          "title": "Apple Macintosh",
+          "detail": "Apple introduced the Macintosh with its famous '1984' Super Bowl commercial, bringing the graphical user interface to the mass market at $2,495."
+        },
+        {
+          "id": "pc-10",
+          "date": "1984-02-01",
+          "title": "Dell Computer Founded",
+          "detail": "Michael Dell founded PC's Limited (later Dell Computer), selling IBM PC-compatible computers built from stock components from his college dorm room."
+        },
+        {
+          "id": "pc-12",
+          "date": "1985-04-29",
+          "title": "Apple Lisa Discontinued",
+          "detail": "Apple discontinued the Lisa after poor sales, renaming remaining inventory as Macintosh XL and focusing resources on the more successful Macintosh line.",
+          "isFailure": true
+        },
+        {
+          "id": "pc-13",
+          "date": "1985-11-20",
+          "title": "Windows 1.0",
+          "detail": "Microsoft released Windows 1.0, the first version of its graphical operating environment."
+        }
+      ]
+    },
+    {
+      "title": "Internet",
+      "period": "(1994-2000)",
+      "events": [
+        {
+          "id": "net-1",
+          "date": "1994-04-04",
+          "title": "Netscape Founded",
+          "detail": "Jim Clark and Marc Andreessen founded Mosaic Communications Corporation (later renamed Netscape), developing the first widely popular web browser."
+        },
+        {
+          "id": "net-2",
+          "date": "1994-08-24",
+          "title": "Microsoft Internet Explorer",
+          "detail": "Microsoft released Internet Explorer 1.0, based on Spyglass Mosaic, beginning what would become known as the 'browser wars' with Netscape."
+        },
+        {
+          "id": "net-3",
+          "date": "1994-10-13",
+          "title": "Netscape Browser",
+          "detail": "Netscape released Mosaic Netscape 0.9, its first web browser, which would quickly capture 75% of the browser market within just four months."
+        },
+        {
+          "id": "net-4",
+          "date": "1995-07-05",
+          "title": "Amazon Founded",
+          "detail": "The e-commerce site Amazon.com, founded by Jeff Bezos, began operations."
+        },
+        {
+          "id": "net-5",
+          "date": "1995-09-03",
+          "title": "eBay Founded",
+          "detail": "eBay, an online auction platform, was founded, revolutionizing consumer-to-consumer sales."
+        },
+        {
+          "id": "net-6",
+          "date": "1996-07-04",
+          "title": "Hotmail",
+          "detail": "The free webmail service Hotmail was launched, quickly becoming popular worldwide."
+        },
+        {
+          "id": "net-7",
+          "date": "1997-05-15",
+          "title": "PHP",
+          "detail": "PHP 2.0 was released as an open-source scripting language designed for web development, which would become one of the most widely used server-side programming languages."
+        },
+        {
+          "id": "net-8",
+          "date": "1998-03-31",
+          "title": "Mozilla",
+          "detail": "Netscape publicly released the source code for its Navigator browser and established the Mozilla Organization, creating one of the most significant open-source projects in internet history and eventually leading to Firefox."
+        },
+        {
+          "id": "net-9",
+          "date": "1999-01-15",
+          "title": "Google Search",
+          "detail": "Google launched its search engine, changing internet information retrieval."
+        },
+        {
+          "id": "net-10",
+          "date": "1999-06-01",
+          "title": "Napster",
+          "detail": "Digital music revolution was sparked by Napster, a pioneering peer-to-peer file sharing service focused on music."
+        },
+        {
+          "id": "net-11",
+          "date": "2000-03-10",
+          "title": "Dot-Com Bubble Peak",
+          "detail": "The NASDAQ Composite index reached its peak at 5,048.62, more than double its value from a year before, marking the height of the dot-com bubble."
+        },
+        {
+          "id": "net-12",
+          "date": "2000-04-14",
+          "title": "Black Friday",
+          "detail": "The NASDAQ fell 9% in a single day, ending a week where it had declined 25%, marking the acceleration of the dot-com crash.",
+          "isFailure": true
+        },
+        {
+          "id": "net-13",
+          "date": "2000-05-18",
+          "title": "Boo.com Liquidation",
+          "detail": "The high-profile online fashion retailer burned through over $100 million in just six months due to poor site design, over-ambitious expansion, and the dot-com crash.",
+          "isFailure": true
+        },
+        {
+          "id": "net-14",
+          "date": "2000-10-01",
+          "title": "Pets.com Collapse",
+          "detail": "The online pet supply retailer Pets.com collapsed due to overexpansion and an unsustainable business model, symbolizing the burst of the dot-com bubble.",
+          "isFailure": true
+        }
+      ]
+    },
+    {
+      "title": "Smartphones",
+      "period": "(2007-2013)",
+      "events": [
+        {
+          "id": "sp-1",
+          "date": "2007-01-09",
+          "title": "iPhone",
+          "detail": "Apple's first iPhone was officially announced at Macworld."
+        },
+        {
+          "id": "sp-2",
+          "date": "2007-06-29",
+          "title": "iPhone On Sale",
+          "detail": "The first-generation iPhone went on sale in the US, sparking long queues among consumers."
+        },
+        {
+          "id": "sp-3",
+          "date": "2008-07-10",
+          "title": "App Store",
+          "detail": "Apple launched the App Store, allowing third-party developers to create and distribute applications for the iPhone."
+        },
+        {
+          "id": "sp-4",
+          "date": "2008-07-11",
+          "title": "iPhone 3G",
+          "detail": "Apple introduced the iPhone 3G, offering faster 3G data connectivity and integrated GPS, marking a significant evolution over the original iPhone."
+        },
+        {
+          "id": "sp-5",
+          "date": "2008-10-21",
+          "title": "Google Open-Sources Android",
+          "detail": "Google officially made the entire Android operating system available under open source licenses and enabling manufacturers to freely modify and distribute Android."
+        },
+        {
+          "id": "sp-6",
+          "date": "2008-11-21",
+          "title": "BlackBerry Storm Failure",
+          "detail": "RIM’s first touchscreen phone launched to negative reviews for its clickable screen and buggy software, tarnishing BlackBerry’s reputation.",
+          "isFailure": true
+        },
+        {
+          "id": "sp-7",
+          "date": "2008-12-05",
+          "title": "Android Market",
+          "detail": "Google launched the Android Market (later Google Play Store), providing a platform for distributing Android applications."
+        },
+        {
+          "id": "sp-8",
+          "date": "2009-06-06",
+          "title": "Palm Pre Failure",
+          "detail": "Hailed initially as an iPhone contender, the Palm Pre ultimately suffered from limited app support and poor marketing, contributing to Palm’s later acquisition by HP.",
+          "isFailure": true
+        },
+        {
+          "id": "sp-9",
+          "date": "2009-10-02",
+          "title": "Nokia N97",
+          "detail": "Nokia N97 was considered Nokia's first response following the iPhone-led touchscreen smartphone trend."
+        },
+        {
+          "id": "sp-10",
+          "date": "2010-01-05",
+          "title": "Nexus One",
+          "detail": "Google and HTC introduced the Nexus One, offering a pure Android experience that influenced future smartphone designs."
+        },
+        {
+          "id": "sp-11",
+          "date": "2010-06-04",
+          "title": "Samsung Galaxy S",
+          "detail": "Samsung released the Galaxy S series, marking the rise of the Android ecosystem."
+        },
+        {
+          "id": "sp-12",
+          "date": "2010-06-07",
+          "title": "iPhone 4",
+          "detail": "Apple unveiled the iPhone 4 at a special event, showcasing a new design with a Retina display, front-facing camera, and improved performance."
+        },
+        {
+          "id": "sp-13",
+          "date": "2010-06-30",
+          "title": "Microsoft Kin Discontinued",
+          "detail": "Microsoft’s Kin line of social-focused phones was pulled off the market just 6 weeks after launch, becoming one of the shortest-lived smartphone product lines in history.",
+          "isFailure": true
+        },
+        {
+          "id": "sp-14",
+          "date": "2010-11-08",
+          "title": "Windows Phone 7",
+          "detail": "Microsoft released Windows Phone 7, its attempt to compete with iOS and Android in the smartphone market."
+        },
+        {
+          "id": "sp-15",
+          "date": "2011-10-04",
+          "title": "iPhone 4S & Siri",
+          "detail": "Apple introduced the iPhone 4S with Siri, the first widely-used voice assistant on smartphones."
+        },
+        {
+          "id": "sp-16",
+          "date": "2013-04-15",
+          "title": "HTC First Failure",
+          "detail": "HTC released the HTC First, a smartphone integrated with Facebook features, but it failed to gain traction in a competitive market.",
+          "isFailure": true
+        },
+        {
+          "id": "sp-17",
+          "date": "2013-09-20",
+          "title": "iPhone 5S & Touch ID",
+          "detail": "Apple announced the iPhone 5S featuring Touch ID, the first mainstream fingerprint authentication system on smartphones."
+        }
+      ]
+    },
+    {
+      "title": "EVs",
+      "period": "(2014-2020)",
+      "events": [
+        {
+          "id": "ev-1",
+          "date": "2014-06-12",
+          "title": "Tesla Open-Sources Patents",
+          "detail": "Elon Musk announced Tesla would not pursue patent lawsuits against anyone using their technology 'in good faith', aiming to accelerate the advancement of electric vehicle technology."
+        },
+        {
+          "id": "ev-2",
+          "date": "2014-09-04",
+          "title": "Tesla Gigafactory",
+          "detail": "Tesla and Panasonic started building the Gigafactory in Nevada, with the goal of mass-producing lithium-ion batteries to reduce battery costs and increase production capacity."
+        },
+        {
+          "id": "ev-3",
+          "date": "2014-10-01",
+          "title": "Apple Initiates Car Project",
+          "detail": "Rumors began circulating that Apple had started developing an electric vehicle under a secret project code-named 'Project Titan', sparking widespread speculation about Apple's future in the automotive industry."
+        },
+        {
+          "id": "ev-4",
+          "date": "2016-03-31",
+          "title": "Tesla Model 3",
+          "detail": "Tesla held a Model 3 launch event, leading to a surge in pre-orders with nearly 400,000 reservations within weeks, demonstrating massive consumer interest in affordable EVs."
+        },
+        {
+          "id": "ev-5",
+          "date": "2016-07-15",
+          "title": "Apple Car Project Discontinued",
+          "detail": "Reports emerged that Apple was restructuring its car project, shifting focus from building a complete vehicle to developing advanced autonomous driving technology, resulting in significant layoffs.",
+          "isFailure": true
+        },
+        {
+          "id": "ev-6",
+          "date": "2016-12-13",
+          "title": "Chevrolet Bolt EV",
+          "detail": "Chevrolet launched the Bolt EV, one of the first affordable electric vehicles with a long range, marking a significant milestone in the mainstream adoption of EVs."
+        },
+        {
+          "id": "ev-7",
+          "date": "2018-01-22",
+          "title": "China Eases Foreign Ownership Restrictions",
+          "detail": "China announced gradual elimination of foreign ownership limits in the automotive industry, particularly for new energy vehicle companies, allowing foreign manufacturers to establish wholly-owned factories in China."
+        },
+        {
+          "id": "ev-8",
+          "date": "2018-02-06",
+          "title": "Tesla Roadster to Space",
+          "detail": "SpaceX's Falcon Heavy maiden flight carried Elon Musk's personal Tesla Roadster into heliocentric orbit, creating a spectacular marketing moment connecting Tesla's and SpaceX's visions for the future."
+        },
+        {
+          "id": "ev-9",
+          "date": "2019-05-18",
+          "title": "China's EV Subsidy Cuts",
+          "detail": "China announced significant reductions to EV subsidies, requiring manufacturers to improve technology and reduce costs, accelerating industry consolidation.",
+          "isFailure": true
+        },
+        {
+          "id": "ev-10",
+          "date": "2019-10-10",
+          "title": "Dyson EV Project Discontinued",
+          "detail": "The UK-based tech giant abruptly ended its ambitious electric vehicle program due to high costs and viability concerns, despite significant investment and prototypes.",
+          "isFailure": true
+        },
+        {
+          "id": "ev-11",
+          "date": "2020-01-07",
+          "title": "Tesla Shanghai Gigafactory Deliveries",
+          "detail": "Tesla delivered its first China-made Model 3 vehicles from the new Shanghai Gigafactory, marking Tesla's first manufacturing facility outside the United States."
+        },
+        {
+          "id": "ev-12",
+          "date": "2020-09-15",
+          "title": "Nikola Motor Controversy",
+          "detail": "Allegations of fraud and misleading investors severely damaged Nikola Motor's credibility, marking one of the biggest controversies in the EV sector.",
+          "isFailure": true
+        }
+      ]
+    },
+    {
+      "title": "GenAI-o1",
+      "period": "(2022-2028)",
+      "predictionTime": "2025-03-23",
+      "events": [
+        {
+          "id": "ai1-1",
+          "date": "2022-03-15",
+          "title": "GPT-3.5",
+          "detail": "OpenAI released the GPT-3.5 text-davinci-002 API."
+        },
+        {
+          "id": "ai1-3",
+          "date": "2022-11-30",
+          "title": "ChatGPT",
+          "detail": "OpenAI launched ChatGPT."
+        },
+        {
+          "id": "ai1-4",
+          "date": "2023-01-23",
+          "title": "Microsoft Invests OpenAI",
+          "detail": "Microsoft announced a new multiyear investment in OpenAI, amounting to $10 billion. This investment valued OpenAI at approximately $29 billion."
+        },
+        {
+          "id": "ai1-5",
+          "date": "2023-02-15",
+          "title": "Google Bard",
+          "detail": "Google's initial launch of Bard was marred by inaccuracies and technical issues, leading to a swift pullback and major revisions.",
+          "isFailure": true
+        },
+        {
+          "id": "ai1-2",
+          "date": "2023-03-14",
+          "title": "GPT-4",
+          "detail": "OpenAI introduced GPT-4 which continues to follow the scaling law."
+        },
+        {
+          "id": "ai1-6",
+          "date": "2023-04-05",
+          "title": "Perplexity",
+          "detail": "Perplexity launched an ai1-powered answer engine that combined the conversational abilities of LLMs with real-time web information to deliver sourced answers."
+        },
+        {
+          "id": "ai1-7",
+          "date": "2023-07-18",
+          "title": "Meta Llama 2",
+          "detail": "Meta released Llama 2 as an open-source model with 7B, 13B, and 70B parameter versions, advancing open-source AI capabilities and enabling wider access to powerful language models."
+        },
+        {
+          "id": "ai1-8",
+          "date": "2024-06-20",
+          "title": "Claude 3.5",
+          "detail": "Anthropic released Claude 3.5 Sonnet, which leads in programming capabilities and becomes a major player."
+        },
+        {
+          "id": "ai1-9",
+          "date": "2024-09-20",
+          "title": "OpenAI o1",
+          "detail": "OpenAI released o1-preview, 1st reasoning model."
+        },
+        {
+          "id": "ai1-10",
+          "date": "2025-01-20",
+          "title": "Deepseek R1",
+          "detail": "Deepseek released the first open-weights reasoning model."
+        },
+        {
+          "id": "ai1-11",
+          "date": "2025-09-25",
+          "title": "Multimodal Debut",
+          "detail": "A consortium of leading research labs jointly launches a multimodal generative AI platform. While enterprises adopt it quickly for various applications, high compute demands delay broader consumer uptake."
+        },
+        {
+          "id": "ai1-12",
+          "date": "2026-03-10",
+          "title": "Security Flaw Recall",
+          "detail": "A critical vulnerability in a widely used generative AI service triggers a mass recall, spurring public calls for stricter data privacy measures and robust AI governance.",
+          "isFailure": true
+        },
+        {
+          "id": "ai1-13",
+          "date": "2026-11-02",
+          "title": "Global Ethics Council",
+          "detail": "International bodies, academia, and policymakers collaborate to establish unified standards for fairness and transparency in AI, though implementation hurdles slow widespread adoption."
+        },
+        {
+          "id": "ai1-14",
+          "date": "2027-06-18",
+          "title": "Autonomous Reasoning",
+          "detail": "A new generative AI agent demonstrates advanced planning and multi-step problem-solving in real-world tasks. Early adopters applaud efficiency gains, while critics call for clearer accountability."
+        },
+        {
+          "id": "ai1-15",
+          "date": "2028-01-22",
+          "title": "Open-Source Overtakes",
+          "detail": "An open-source generative AI project surpasses top proprietary systems on key benchmarks, fuelling community-driven innovation and prompting debates on licensing models."
+        },
+        {
+          "id": "ai1-16",
+          "date": "2028-08-05",
+          "title": "Hardware Bottleneck",
+          "detail": "Global shortages of advanced computing components force many AI developers to scale back or delay projects, prompting research into more efficient training strategies and specialized hardware.",
+          "isFailure": true
+        }
+      ]
+    },
+    {
+      "title": "Robot-o1",
+      "period": "(2025-2031)",
+      "predictionTime": "2025-03-23",
+      "events": [
+        {
+          "id": "ro1-1",
+          "date": "2025-03-12",
+          "title": "Google Gemini Robotics",
+          "detail": "Google released Gemini Robotics model."
+        },
+        {
+          "id": "ro1-2",
+          "date": "2025-03-18",
+          "title": "Nvidia GR00T",
+          "detail": "Nvidia released GR00T N1 model, the world's first open humanoid robot foundation model."
+        },
+        {
+          "id": "ro1-3",
+          "date": "2025-10-08",
+          "title": "Robot Pilots Kick Off",
+          "detail": "Research institutes and robotics companies begin small-scale pilots integrating generative AI with lightweight robots. Early tests show promise for automated assembly but face hardware cost challenges."
+        },
+        {
+          "id": "ro1-4",
+          "date": "2026-03-15",
+          "title": "Household Robot Boom",
+          "detail": "A surge in demand for domestic robots—ranging from cleaning assistants to basic caregiving—raises excitement among investors, though many early models suffer from software glitches."
+        },
+        {
+          "id": "ro1-5",
+          "date": "2026-08-22",
+          "title": "Standards Alliance Stalls",
+          "detail": "An international effort to unify AI and robotics standards struggles amid disagreements over data privacy rules, causing delays in cross-border deployments.",
+          "isFailure": true
+        },
+        {
+          "id": "ro1-6",
+          "date": "2027-01-10",
+          "title": "Humanoid Robots Enter Production",
+          "detail": "Several manufacturers ramp up assembly lines for general-purpose humanoid robots. Pre-orders exceed forecasts, signaling strong commercial interest in programmable robotic solutions."
+        },
+        {
+          "id": "ro1-7",
+          "date": "2027-07-18",
+          "title": "Big-Model Training Overruns",
+          "detail": "A major project to unify visual, speech, and haptic data into one large AI model faces spiraling costs and technical setbacks, prompting some backers to reduce funding.",
+          "isFailure": true
+        },
+        {
+          "id": "ro1-8",
+          "date": "2028-05-05",
+          "title": "New AI Laws Introduced",
+          "detail": "Regulators worldwide enact tougher rules on data usage and algorithmic transparency in autonomous robots, aiming to curb potential ethical issues and protect consumer rights."
+        },
+        {
+          "id": "ro1-9",
+          "date": "2028-08-25",
+          "title": "Hospital Robot Rollout Paused",
+          "detail": "Large hospital chains temporarily suspend the deployment of advanced care and surgery-assist robots due to safety concerns and unresolved legal liabilities."
+        },
+        {
+          "id": "ro1-10",
+          "date": "2029-02-14",
+          "title": "Open Robot Dev Communities Thrive",
+          "detail": "Open-source robotics projects flourish worldwide, leveraging cloud-based AI and standardized robotic hardware. New features and use cases emerge at an unprecedented pace."
+        },
+        {
+          "id": "ro1-11",
+          "date": "2029-09-01",
+          "title": "Space Robot Missions Succeed",
+          "detail": "Autonomous robots powered by advanced generative AI complete critical tasks on lunar outposts and in low Earth orbit, reducing reliance on human extravehicular activity."
+        },
+        {
+          "id": "ro1-12",
+          "date": "2030-06-11",
+          "title": "Public Service Robots Face Probe",
+          "detail": "Several cities temporarily suspend police and firefighting robot operations after reports of AI bias and technical malfunctions spark public outcry over accountability and ethics.",
+          "isFailure": true
+        },
+        {
+          "id": "ro1-13",
+          "date": "2030-11-02",
+          "title": "Social Companion Robot Unveiled",
+          "detail": "A major consumer electronics brand releases a new generation of social companion robot featuring emotion recognition and conversational AI. Although consumers show high enthusiasm, privacy advocates raise concerns over the collection of biometric data."
+        },
+        {
+          "id": "ro1-14",
+          "date": "2031-02-28",
+          "title": "Robot Act Gains Support",
+          "detail": "The UN's 'Responsible AI & Robotics' framework wins broad global endorsement, aiming to unify regulations and ethical guidelines. However, some leading economies remain cautious about the framework’s core provisions."
+        },
+        {
+          "id": "ro1-15",
+          "date": "2031-07-16",
+          "title": "Undersea Robotics Project Discontinued",
+          "detail": "An international initiative to use robots for deep-sea mining is suspended following critical equipment failures, sparking intense debate among environmental groups about the marine ecosystem and project feasibility.",
+          "isFailure": true
+        },
+        {
+          "id": "ro1-16",
+          "date": "2031-11-30",
+          "title": "‘Robot-First’ Factory Expansion",
+          "detail": "Several major electronics manufacturers announce large-scale expansions of ‘robot-first’ factories, cutting human jobs and triggering a heated public discussion on job displacement and the possibility of universal basic income."
+        }
+      ]
+    },
+    {
+      "title": "Robot-Claude 3.7",
+      "period": "(2025-2031)",
+      "predictionTime": "2025-03-23",
+      "events": [
+        {
+          "id": "ro2-1",
+          "date": "2025-03-12",
+          "title": "Google Gemini Robotics",
+          "detail": "Google released Gemini Robotics model."
+        },
+        {
+          "id": "ro2-2",
+          "date": "2025-03-18",
+          "title": "Nvidia GR00T",
+          "detail": "Nvidia released GR00T N1 model, the world's first open humanoid robot foundation model."
+        },
+        {
+          "id": "ro2-3",
+          "date": "2025-09-15",
+          "title": "Major Robotics Acquisition",
+          "detail": "A leading tech company acquires a prominent robotics startup for over $10 billion, signaling consolidation in the robotics market similar to early smartphone industry consolidation."
+        },
+        {
+          "id": "ro2-4",
+          "date": "2026-03-22",
+          "title": "Robotics App Marketplace",
+          "detail": "Launch of the first major marketplace for robot applications, allowing third-party developers to create and distribute software for consumer and industrial robots, similar to how smartphone app stores revolutionized mobile computing."
+        },
+        {
+          "id": "ro2-5",
+          "date": "2026-07-10",
+          "title": "Generative AI Bubble Burst",
+          "detail": "Following years of overinvestment and unrealistic expectations, a significant market correction occurs in the generative AI sector, with numerous startups failing and valuations dropping dramatically, similar to the dot-com crash of 2000.",
+          "isFailure": true
+        },
+        {
+          "id": "ro2-6",
+          "date": "2027-01-18",
+          "title": "Consumer Robot Failure",
+          "detail": "A highly anticipated consumer robot product from a major company fails spectacularly due to reliability issues, privacy concerns, and limited functionality, echoing early smartphone failures like the BlackBerry Storm or Microsoft Kin.",
+          "isFailure": true
+        },
+        {
+          "id": "ro2-7",
+          "date": "2027-04-05",
+          "title": "Open Robot Foundation",
+          "detail": "Major technology companies establish an open foundation for robotics development, sharing patents and standardizing interfaces to accelerate industry growth, similar to how Android was open-sourced or Tesla shared EV patents."
+        },
+        {
+          "id": "ro2-8",
+          "date": "2027-08-12",
+          "title": "Multi-Modal AGI Breakthrough",
+          "detail": "A significant breakthrough in multi-modal AI enables robots to understand and respond to complex environments with human-like comprehension, marking a milestone similar to the introduction of revolutionary features like touchscreens or Siri in the smartphone era."
+        },
+        {
+          "id": "ro2-9",
+          "date": "2028-02-09",
+          "title": "AI Safety Incident",
+          "detail": "A high-profile incident involving an AI system making harmful decisions leads to increased regulatory scrutiny and a temporary slowdown in AI deployment, similar to how manufacturing controversies affected the EV industry.",
+          "isFailure": true
+        },
+        {
+          "id": "ro2-10",
+          "date": "2028-06-20",
+          "title": "Robotics Subsidy Programs",
+          "detail": "Several countries announce major subsidy programs for domestic robotics manufacturing and AI development, similar to how governments subsidized electric vehicle adoption to encourage economic growth and technological sovereignty."
+        },
+        {
+          "id": "ro2-11",
+          "date": "2029-03-14",
+          "title": "Robotics Manufacturing Crisis",
+          "detail": "Supply chain issues and component shortages cause a major crisis in robotics manufacturing, delaying deliveries and increasing prices, similar to challenges faced during early smartphone mass production.",
+          "isFailure": true
+        },
+        {
+          "id": "ro2-12",
+          "date": "2030-01-10",
+          "title": "Trillion-Dollar Robot Company",
+          "detail": "The first robotics company reaches a trillion-dollar market valuation, cementing the industry's economic importance similar to how smartphone makers and internet companies achieved unprecedented valuations in previous tech waves."
+        }
+      ]
+    }
+  ],
+  "connections": [
+    {
+      "from": "pc-3",
+      "to": "sp-6",
+      "reason": "Leading companies in the industry attempted to follow the latest trend but failed"
+    },
+    {
+      "from": "ai1-5",
+      "to": "sp-6",
+      "reason": "Leading companies in the industry attempted to follow the latest trend but failed"
+    },
+    {
+      "from": "net-2",
+      "to": "ro1-1",
+      "reason": "Tech giants leverage their strengths in other technologies to gain an early foothold in emerging markets"
+    },
+    {
+      "from": "net-2",
+      "to": "ro2-1",
+      "reason": "Tech giants leverage their strengths in other technologies to gain an early foothold in emerging markets"
+    },
+    {
+      "from": "net-9",
+      "to": "ai1-6",
+      "reason": "New way of information seeking"
+    },
+    {
+      "from": "sp-1",
+      "to": "ai1-3",
+      "reason": "Revolutionary product release"
+    },
+    {
+      "from": "net-8",
+      "to": "sp-5",
+      "reason": "Open source strategy"
+    },
+    {
+      "from": "ev-1",
+      "to": "ai1-10",
+      "reason": "Open source strategy"
+    },
+    {
+      "from": "ev-4",
+      "to": "ai1-2",
+      "reason": "Product announcement creating unprecedented demand"
+    },
+    {
+      "from": "sp-5",
+      "to": "ev-1",
+      "reason": "Open source strategy"
+    },
+    {
+      "from": "ai1-10",
+      "to": "ro1-2",
+      "reason": "Open source strategy"
+    },
+    {
+      "from": "ai1-10",
+      "to": "ro2-2",
+      "reason": "Open source strategy"
+    },
+    {
+      "from": "pc-10",
+      "to": "sp-1",
+      "reason": "Apple UI Innovation"
+    },
+    {
+      "from": "pc-2",
+      "to": "ai1-4",
+      "reason": "Strategic software partnership defining an era"
+    },
+    {
+      "from": "pc-10",
+      "to": "sp-15",
+      "reason": "Apple UI Innovation"
+    },
+    {
+      "from": "sp-1",
+      "to": "ev-4",
+      "reason": "Product announcement creating unprecedented demand"
+    },
+    {
+      "from": "net-12",
+      "to": "ev-9",
+      "reason": "Market correction after period of exuberance"
+    }
+  ]
+}
