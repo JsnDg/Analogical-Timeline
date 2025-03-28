@@ -1,5 +1,7 @@
 # Analogical Timeline for Hype Cycle
 
+![Zijian Ding](https://jason-ding.com/), University of Maryland, College Park
+
 "History doesn't repeat itself, but it often rhymes."
 
 We attempt to provide a preliminary direction for addressing a question that everyone is interested in but finds difficult to answer: What will the future be like?
@@ -18,7 +20,7 @@ Check the interactive interface [here](https://anatime.netlify.app/). On this in
 
 Hover over event cards to view detailed information.
 
-![Robot 2025](public/images/Event Details.png)
+![Robot 2025](public/images/EventDetails.png)
 
 Hover over links to explore the analogical connections between events.
 
