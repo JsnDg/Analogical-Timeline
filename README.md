@@ -2,7 +2,7 @@
 
 "History doesn't repeat itself, but it often rhymes."
 
-We attempt to provide a preliminary direction for addressing a question that everyone is interested in but finds difficult to answer: What will the future be like?
+We introduce the Analogical Timeline for the Hype Cycle as a preliminary approach to tackling a question that captivates everyone yet remains elusive: What will the future be like?
 
 Forecasting technological advancements has always been challenging. Yet, historical parallels can offer valuable insights into the patterns of innovation and adoption. We introduce the concept of an analogical timeline—a method of using LLM and milestones and growth trajectory of one technology (e.g., Generative AI from 2022 to 2025) to predict the future evolution of another (e.g., robotics from 2025 onward). By examining how previous technology underwent phases such as fundamental breakthroughs, mass adoption, and open-source strategy, we propose a structured framework for forecasting future technology advancement with GenAI.
 
